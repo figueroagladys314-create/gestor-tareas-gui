@@ -1,27 +1,26 @@
-# 📝 Gestor de Tareas con GUI (Tkinter)
+Gestor de Tareas con GUI (Tkinter)
 
-## 📌 Descripción
+ Descripción
 Aplicación desarrollada en Python usando Tkinter que permite gestionar tareas mediante una interfaz gráfica y atajos de teclado.
 
-## 🎯 Funcionalidades
+Funcionalidades
 - Agregar tareas
 - Marcar tareas como completadas
 - Eliminar tareas
 - Uso de atajos de teclado
 
-## ⌨️ Atajos de teclado
+Atajos de teclado
 - Enter → Agregar tarea
 - C → Marcar como completada
 - D o Delete → Eliminar tarea
 - Escape → Cerrar aplicación
-
-## 🧠 Conceptos aplicados
+Conceptos aplicados
 - Manejo de eventos
 - Manejadores de eventos (event handlers)
 - Vinculación de eventos (event binding)
 - Interfaces gráficas con Tkinter
 
-## ▶️ Ejecución
+Ejecución
 
 ```bash
-python main.py
+python gestor de tareas.py
